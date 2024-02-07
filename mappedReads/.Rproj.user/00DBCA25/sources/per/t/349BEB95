@@ -1,0 +1,26 @@
+{
+    "id": "349BEB95",
+    "path": "~/Desktop/course_dataset/mappedReads/Step1_TxImport.R",
+    "project_path": "Step1_TxImport.R",
+    "type": "r_source",
+    "hash": "3427899726",
+    "contents": "",
+    "dirty": false,
+    "created": 1707266669602.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,23",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1707266629,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707267522148,
+    "read_only": false,
+    "read_only_alternatives": []
+}
